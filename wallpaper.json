@@ -1,0 +1,19 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Nature",
+      "url": "https://i.imgur.com/2nCt3Sbl.jpg"
+    },
+    {
+      "id": 2,
+      "title": "City",
+      "url": "https://i.imgur.com/8Km9tLL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Dark",
+      "url": "https://i.imgur.com/6XH6x0Z.jpg"
+    }
+  ]
+}
