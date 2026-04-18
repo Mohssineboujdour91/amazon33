@@ -1,19 +1,24 @@
 {
-  "wallpapers": [
+  "categories": [
     {
-      "id": 1,
-      "title": "Nature",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oH6ONE9MfpTcol0ZBnEK842fFUDnJ4N3FQ&s"
+      "name": "Nature",
+      "wallpapers": [
+        {
+          "id": 1,
+          "title": "Forest",
+          "url": "https://i.imgur.com/2nCt3Sbl.jpg"
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "City",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUShrYE-BG3UFNG-saAVXkZacDFZ6mo2QdXg&s"
-    },
-    {
-      "id": 3,
-      "title": "Dark",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxxcEACRsxRQZWYyoDJsHKcb2HtJfyoarNQ&s"
+      "name": "Cars",
+      "wallpapers": [
+        {
+          "id": 2,
+          "title": "Car",
+          "url": "https://i.imgur.com/8Km9tLL.jpg"
+        }
+      ]
     }
   ]
 }
