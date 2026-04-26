@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "name": "Nature",
+      "wallpapers": [
+        {
+          "id": 1,
+          "title": "a",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "b",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "c",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "d",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "e",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "f",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "g",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "h",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "wallpapers": [
+        {
+          "id": 1,
+          "title": "a",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "b",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "c",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "d",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "e",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "f",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "g",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        },
+        {
+          "id": 1,
+          "title": "h",
+          "url": "https://thumbs.dreamstime.com/b/perroquet-jaune-33126054.jpg"
+        }
+      ]
+    }
+  ]
+}
